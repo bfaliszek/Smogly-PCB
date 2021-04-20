@@ -396,6 +396,7 @@
       "default_text_size": 50.0,
       "default_wire_thickness": 6.0,
       "field_names": [],
+      "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
       "intersheets_ref_show": false,
@@ -410,6 +411,12 @@
       "version": 0
     },
     "net_format_name": "",
+    "ngspice": {
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 0
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
@@ -419,7 +426,7 @@
   },
   "sheets": [
     [
-      "2f2ae797-59bd-49c6-a302-a3bd4c28d3e4",
+      "de8b37a3-e53c-42da-984f-3e6fc4ae957b",
       ""
     ]
   ],
