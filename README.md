@@ -7,7 +7,7 @@
 
 ## Connections with NodeMcu v3 pins
 
-**BME2866**: SDA - D3; SCL - D4
+**BME280**: SDA - D3; SCL - D4
 
 **PMSx003**: TX - D1; RX - D2
 
