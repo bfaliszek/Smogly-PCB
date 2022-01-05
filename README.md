@@ -5,6 +5,12 @@
 
  Two versions available: [ESP8266](https://github.com/bfaliszek/Smogly-PCB) and [ESP32](https://github.com/bfaliszek/Smogly-PCB/tree/esp32)
 
+## Connections with ESP32-DevKit(ESP-WROOM-32) pins
+
+**BME280**: SDA - D18; SCL - D19
+
+**PMSx003**: TX - D22; RX - D23
+
  ## Scheme
  ![SmoglyPCB](https://raw.githubusercontent.com/bfaliszek/Smogly-PCB/esp32/screens/PCB.png)
 
