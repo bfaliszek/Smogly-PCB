@@ -5,6 +5,12 @@
 
  Two versions available: [ESP8266](https://github.com/bfaliszek/Smogly-PCB) and [ESP32](https://github.com/bfaliszek/Smogly-PCB/tree/esp32)
 
+## Connections with NodeMcu v3 pins
+
+**BME2866**: SDA - D3; SCL - D4
+
+**PMSx003**: TX - D1; RX - D2
+
  ## Scheme
  ![SmoglyPCB](https://raw.githubusercontent.com/bfaliszek/Smogly-PCB/main/screens/PCB.png)
 
